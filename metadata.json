@@ -1,0 +1,7 @@
+{
+  "name": "ZMAC Construction - Emergency Roofing Experts",
+  "description": "A high-converting, professional website for ZMAC Construction focusing on 24/7 emergency roof repairs and residential roofing services in Lakewood, CO.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
